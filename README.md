@@ -16,10 +16,11 @@ The arbitrary-precision implementation evaluates the analytical expression at in
 
 ## Requirements
 
-- A C++ compiler supporting the language features used by the source code.
-- The GNU Multiple Precision Arithmetic Library (GMP), installed and configured for compilation.
+- A C++14-compatible compiler.
+- Boost C++ Libraries, including Boost.Multiprecision.
+- The GNU Multiple Precision Arithmetic Library (GMP), including its development headers and libraries.
 
-See the detailed README for compilation instructions, command-line arguments, input conventions, and examples.
+See `README_github_compute_prob_GMP_v7.txt` for installation guidance, compilation instructions, command-line syntax, input conventions, examples, and numerical limitations.
 
 ## Licence
 
