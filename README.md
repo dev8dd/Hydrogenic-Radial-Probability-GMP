@@ -30,4 +30,6 @@ Licence: https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-If you use this code in research, please cite the repository and identify the version used. If a separate publication or archived release is provided later, include that citation as well.
+If you use this code in research, please cite the repository, identify the version used, and acknowledge the associated analytical framework where appropriate.
+
+For reproducibility, record the source-code version, compiler, Boost version, GMP version, and input parameters used in your calculation.
